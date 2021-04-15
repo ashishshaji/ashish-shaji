@@ -1,2 +1,2 @@
 # Personal Portfolio website
-deployed at:https://ashishshaji.github.io/ashish-shaji/
+deployed at:https://ashish-shaji.github.io/ashishshaji/
